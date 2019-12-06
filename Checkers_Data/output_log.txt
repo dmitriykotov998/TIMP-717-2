@@ -1,0 +1,51 @@
+Initialize engine version: 5.6.4p2 (278fc6850ee0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     4055 MB
+    Driver:   26.21.14.4141
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Configuration.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Configuration.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.EnterpriseServices.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.EnterpriseServices.dll into Unity Child Domain
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Security.dll (this message is harmless)
+Loading C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Security.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.205950 ms
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: C:\Users\User\Documents\SHASHKI3D\Checkers_Data\Managed\System.Xml.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: db8 -> priority: 1 
+  Thread -> id: 33b4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.432726 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 566.
+Total: 0.477090 ms (FindLiveObjects: 0.040550 ms CreateObjectMapping: 0.016925 ms MarkObjects: 0.401983 ms  DeleteObjects: 0.016220 ms)
+
+Socket error Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера.
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

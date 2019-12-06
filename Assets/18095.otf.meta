@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4d7d927148867794b9f66430eddb8b74
+timeCreated: 1575107575
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: mr_ITCSerifGothic
+  fontNames:
+  - mr_ITCSerifGothic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
